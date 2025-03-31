@@ -1,0 +1,1 @@
+In Advanced Econometrics 2, we focused on three main areas: bootstrapping, weak instruments, and panel data. Through three detailed assignments, we delved deeply into these topics, utilizing Monte Carlo simulations and applying various econometric testing methods.
